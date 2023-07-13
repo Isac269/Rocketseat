@@ -46,3 +46,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+Para ver como ficou o meu projeto junto da rocketseat, <a href="https://isac269.github.io/Rocketseat/">clique aqui</a>, espero que gostem!
